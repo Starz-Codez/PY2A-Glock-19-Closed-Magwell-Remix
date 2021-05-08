@@ -6,7 +6,7 @@ Print Settings
 Slide / railside down
 Print Temp:220ºC  
 Bed Temp:55ºC  
-Speed:52mm/s
+Speed:52mm/s  
 Layer height:0.16mm  
 Shell:1.2mm  
 15% infill overlap  
