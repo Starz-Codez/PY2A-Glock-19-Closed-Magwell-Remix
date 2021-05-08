@@ -1,7 +1,8 @@
 # PY2A-Glock-19-Closed-Magwell-Remix
 A Glock 19 Closed Magwell frame that uses front and rear stamped rails from printyour2a.com
 
-Print Settings
+Print Settings 
+
 Slide / railside down
 Print Temp:220ºC  
 Bed Temp:55ºC  
