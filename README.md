@@ -14,3 +14,5 @@ Line Supports:10%
 
 Suggest printing in PLA, PLA+ or ABS. PLA+ works best. 
 Rear supports can be blocked out if desired. These are only recommended settings, adjust as needed. Frame should be printed rails down without raft on a clean bed. Glass is the preferred medium to print on. Do not use frames that are warped or printed poorly. 
+
+Slide lock spring insert is if you're having issues with your slide locking in place when in battery
