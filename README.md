@@ -10,8 +10,8 @@ Bed Temp:55ºC
 Speed:52mm/s  
 Layer height:0.16mm  
 Shell:1.2mm  
-15% infill overlap
-Infill Pattern: Gyroid
+15% infill overlap  
+Infill Pattern: Gyroid  
 Line Supports:10% (your choice of tree supports are fine)  
 
 Suggest printing in PLA, PLA+ or ABS. PLA+ works best. 
