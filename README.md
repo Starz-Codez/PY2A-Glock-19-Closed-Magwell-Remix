@@ -3,8 +3,8 @@ A Glock 19 Closed Magwell frame that uses front and rear stamped rails from prin
 
 Print Settings 
 
-Slide / railside down
-Nozzle: .4mm
+Slide / railside down  
+Nozzle: .4mm  
 Print Temp:225ºC  
 Bed Temp:55ºC  
 Speed:52mm/s  
