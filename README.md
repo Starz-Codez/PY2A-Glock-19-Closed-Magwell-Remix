@@ -7,6 +7,7 @@ Slide / railside down
 Nozzle: .4mm  
 Print Temp:225ºC  
 Bed Temp:55ºC  
+Adhesion method: Brim  
 Speed:52mm/s  
 Layer height:0.16mm  
 Shell:1.2mm  
