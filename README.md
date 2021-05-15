@@ -1,7 +1,12 @@
 # PY2A-Glock-19-Closed-Magwell-Remix
 A Glock 19 Closed Magwell frame that uses front and rear stamped rails from printyour2a.com
 
-Print Settings 
+Requirements  
+G26 locking block
+G19 Slide Assembly kit
+Glock Lower parts Kit and Magazine.
+
+Print Settings  
 
 Slide / railside down  
 Nozzle: .4mm  
