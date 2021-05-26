@@ -1,4 +1,4 @@
-# PY2A-Glock-19-PY2A-Remix
+# PY2A-Glock19-Remix
 A Glock 19 frame that uses front and rear stamped rails from printyour2a.com fixes most integrity and fitment issues with py2a rails aswell.
 
 Requirements  
