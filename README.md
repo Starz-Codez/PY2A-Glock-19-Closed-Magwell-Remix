@@ -1,5 +1,5 @@
 # PY2A-Glock-19-Closed-Magwell-Remix
-A Glock 19 Closed Magwell frame that uses front and rear stamped rails from printyour2a.com
+A Glock 19 frame that uses front and rear stamped rails from printyour2a.com fixes most integrity and fitment issues with py2a rails aswell.
 
 Requirements  
 G26 locking block
@@ -24,3 +24,5 @@ Suggest printing in PLA, PLA+ or ABS. PLA+ works best.
 Rear supports can be blocked out if desired. These are only recommended settings, adjust as needed. Frame should be printed rails down without raft on a clean bed. Glass is the preferred medium to print on. Do not use frames that are warped or printed poorly. 
 
 Slide lock spring insert is if you're having issues with your slide locking in place when in battery on the original model
+
+STEP Files included in ZIP File to Customize it to your liking.
